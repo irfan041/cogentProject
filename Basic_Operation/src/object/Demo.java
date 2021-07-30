@@ -24,6 +24,7 @@ public class Demo {
     {    
         Demo1 object = new Demo1(1,"Hello"); 
         String filename = "file.ser"; 
+        System.out.println("Updated Task");
           
         // Serialization  
         try
